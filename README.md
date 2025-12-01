@@ -1,9 +1,9 @@
-> A fork of the awesome work done by [ilcato](https://github.com/ilcato)
->
-> Given it is no longer being maintained, I've forked the repo to provide semi-regular maintenance. 
->
-> Pull requests for changes are always welcome, especially if you're an active user.
-> 
+A fork of the awesome work done by [ilcato](https://github.com/ilcato)
+
+Given it is no longer being maintained, I've forked the repo to provide semi-regular maintenance. 
+
+Pull requests for changes are always welcome, especially if you're an active user.
+ 
 
 <!-- <img src="https://raw.githubusercontent.com/homebridge/verified/latest/icons/homebridge-fibaro-home-center.png" width="100px"></img>
 # homebridge-fibaro-home-center
