@@ -1,13 +1,11 @@
-> [!WARNING]
+> A fork of the awesome work done by [ilcato](https://github.com/ilcato)
 >
-> **Please be aware:** I am no longer an active user of the underlying products, so my maintenance of this project will be **limited**.
+> Given it is no longer being maintained, I've forked the repo to provide semi-regular maintenance. 
 >
-> I’m available for **best-effort support**, but **I won’t be able to test new changes** or updates directly. Community contributions are **highly encouraged**! I’ll do my best to respond to issues and review pull requests, but please expect **reduced frequency** and **no direct testing capacity**.
->
-> If anyone is interested in **taking over as the project maintainer**, please don’t hesitate to reach out!
+> Pull requests for changes are always welcome, especially if you're an active user.
+> 
 
-
-<img src="https://raw.githubusercontent.com/homebridge/verified/latest/icons/homebridge-fibaro-home-center.png" width="100px"></img>
+<!-- <img src="https://raw.githubusercontent.com/homebridge/verified/latest/icons/homebridge-fibaro-home-center.png" width="100px"></img>
 # homebridge-fibaro-home-center
 
 [![verified-by-homebridge](https://badgen.net/badge/homebridge/verified/purple)](https://github.com/homebridge/homebridge/wiki/Verified-Plugins)
@@ -15,9 +13,8 @@
 [![Homebridge Discord](https://img.shields.io/discord/432663330281226270?color=728ED5&logo=discord&label=discord)](https://discord.gg/38Dpux)
 
 [![GitHub version](https://img.shields.io/github/package-json/v/ilcato/homebridge-fibaro-home-center?label=GitHub)](https://github.com/ilcato/homebridge-fibaro-home-center/releases/)
-[![npm version](https://img.shields.io/npm/v/homebridge-fibaro-home-center?color=%23cb3837&label=npm)](https://www.npmjs.com/package/homebridge-fibaro-home-center)
+[![npm version](https://img.shields.io/npm/v/homebridge-fibaro-home-center?color=%23cb3837&label=npm)](https://www.npmjs.com/package/homebridge-fibaro-home-center) -->
 
-[![Buy me a cofee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/ilcato)
 
 ### Homebridge plugin for Fibaro Home Center (2, 2 Lite, 3, 3 Lite, Yubii Home).
 
@@ -378,7 +375,7 @@ If you have any issues with this plugin, enable all logs in plugin config and th
 
 # Contributing and support
 
-Feel free to create [Issue](https://github.com/ilcato/homebridge-fibaro-home-center/issues) or [Pull Request](https://github.com/ilcato/homebridge-fibaro-home-center/pulls)
+Feel free to create [Issue](https://github.com/jtango18/homebridge-fibaro-home-center/issues) or [Pull Request](https://github.com/jtango18/homebridge-fibaro-home-center/pulls)
 
 # Disclaimer
 
@@ -387,12 +384,6 @@ Feel free to create [Issue](https://github.com/ilcato/homebridge-fibaro-home-cen
 - All actions are at your own risk.
 - All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-# Latest release notes
 
-### Version 3.2.3
-- Dependencies updates.
 
-### Version 3.2.2
-- Dependencies updates.
-
-#### See all: [Releases](https://github.com/ilcato/homebridge-fibaro-home-center/releases)
+#### See all: [Releases](https://github.com/jtango18/homebridge-fibaro-home-center/releases)
